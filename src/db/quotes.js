@@ -45,6 +45,26 @@ const quotes = [
       'Ah, be creative. Instead of making sandwhiches with bread, use Pop-Tarts. Instead of chewing gum, chew bacon.',
     character: 'Dr. Nick',
   },
+  {
+    quote:
+      'Test Quote 1',
+    character: 'Chris',
+  },
+  {
+    quote:
+      'Test Quote 2',
+    character: 'Chris',
+  },
+  {
+    quote:
+      'Test Quote 3',
+    character: 'Chris',
+  },
+  {
+    quote:
+      'Test Quote 4',
+    character: 'Chris',
+  },
 ];
 
 export default quotes;
